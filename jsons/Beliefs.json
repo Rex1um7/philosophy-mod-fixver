@@ -101,7 +101,7 @@
         "type": "Founder",
         "uniques": [
             "[Faith] cost of purchasing [Inquisitor] units [-25]%",
-            "[+33]% Natural religion spread <in all cities> <in cities with an enhanced religion>"
+            "[+33]% Natural religion spread [in all cities] <in cities with an enhanced religion>"
         ]
     },
 {
@@ -168,7 +168,7 @@
         "type": "Founder",
         "uniques": [
             "[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
-            "[+33]% Natural religion spread <in all cities> <in cities with an enhanced religion>",
+            "[+33]% Natural religion spread [in all cities] <in cities with an enhanced religion>",
             "[-1 Happiness, -2 Faith] from every [Dyes]"
         ]
     },
