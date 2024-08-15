@@ -50,24 +50,36 @@
 		"cost": 0,
 		"faith": 3,
 		"food": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Barong] appears"]
+		"uniques": [
+			"Unbuildable",
+			"Hidden when religion is disabled",
+			"Can only be built <in [in holy cities] cities>",
+			"Free [Barong] appears"
+		]
 	},
 {
 		"name": "Icon of Saint Mercurius",
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [St Mercurius] appears"]
+		"uniques": [
+			"Unbuildable",
+			"Hidden when religion is disabled",
+			"Can only be built <in [in holy cities] cities>",
+			"Free [St Mercurius] appears"
+		]
 	},
 {
 		"name": "The Hanging Church",
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Simon the Tanner] appears"]
+		"uniques": [
+			"Unbuildable",
+			"Hidden when religion is disabled",
+			"Can only be built <in [in holy cities] cities>",
+			"Free [Simon the Tanner] appears"
+		]
 	},
 {
 		"name": "Hueyi Teocalli",
@@ -75,7 +87,11 @@
 		"faith": 2,
 		"Gold": 1,
 		"culture": 1,
-		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
-"Free [Tlaloc] appears"]
+		"uniques": [
+			"Unbuildable",
+			"Hidden when religion is disabled",
+			"Can only be built <in [in holy cities] cities>",
+			"Free [Tlaloc] appears"
+		]
 	}
 ]
