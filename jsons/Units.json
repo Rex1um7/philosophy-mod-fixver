@@ -55,7 +55,7 @@
 	  	"Invisible to non-adjacent units",
 	  	"May capture killed [All] units",
 	  	"[+64]% Strength <when defending>",
-	  	"Can Spread Religion [2] times <after which this unit is consumed>",
+	  	"Can Spread Religion <[2] times> <after which this unit is consumed>",
 		"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"
   ],
   },
