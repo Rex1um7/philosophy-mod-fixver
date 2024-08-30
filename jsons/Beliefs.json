@@ -176,7 +176,7 @@
         "name": "Ahimsa",
         "type": "Follower",
         "uniques": [
-            "[-1 Food, +1 Faith, +1 Culture] from every [Cattle]","[-1 Food, +1 Faith, +1 Culture] from every [Bison]",
+            "[-1 Food, +1 Faith, +1 Culture] from every [Cattle]","[-1 Food, +1 Faith, +1 Culture] from every [Cattle]",
             "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]","[-1 Food, +1 Faith, +1 Culture] from every [Deer]",
             "[-1 Food, +1 Faith] from every [Fish]","[-1 Food, +1 Faith] from every [Whales]",
             "[-1 Food, +1 Faith] from every [Crab]"
