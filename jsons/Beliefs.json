@@ -220,6 +220,7 @@
         "uniques": ["May buy [Hueyi Teocalli] buildings with [Faith] [in cities following this religion]"]
     },
 {
+        //synagogue in Rekmod
         "name": "Kabbalah",
         "type": "Enhancer"
         "uniques": [
