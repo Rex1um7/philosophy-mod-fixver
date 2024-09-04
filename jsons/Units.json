@@ -1,24 +1,36 @@
 [
-  {
-    "name": "Barong",
+  	{
+    	"name": "Barong",
 		"unitType": "Deity",
 	  	"rangedStrength": "70",
 		"movement": "3",
 	  	"range": "3",
 	  	"cost": "2000",
 		"strength": "90",
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "Eliminates combat penalty for attacking over a river"],
+  		"uniques": [
+			"Cannot be purchased",
+			"Unbuildable",
+			"Can move after attacking",
+			"Never appears as a Barbarian unit",
+			"Invisible to non-adjacent units",
+	      	"Eliminates combat penalty for attacking over a river"
+		],
   },
 	{
-    "name": "St Mercurius",
+    	"name": "St Mercurius",
 		"unitType": "Deity",
 		"movement": "4",
 		"strength": "85",
 		"cost": "2000",
 		"promotions": ["Blitz"],
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "[+15]% Strength bonus for [Military] units within [2] tiles"],
+  		"uniques": [
+			"Cannot be purchased",
+			"Unbuildable",
+			"Can move after attacking",
+			"Never appears as a Barbarian unit","Invisible to non-adjacent units",
+	      	"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Unable to capture cities"
+		],
   },
 	{
     "name": "Simon the Tanner",
@@ -26,7 +38,7 @@
 		"movement": "2",
 		"strength": "300",
 		"cost": "2000",
-  "uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [2]","Blast radius [2]","Invisible to non-adjacent units",
+  		"uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [2]","Blast radius [2]","Invisible to non-adjacent units",
 	      "Eliminates combat penalty for attacking over a river","Self-destructs when attacking"],
   },
 	{
@@ -38,10 +50,16 @@
 		"interceptRange": "8",
 		"range": "8",
 		"cost": "2000",
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit",
-	      "[-30]% Strength for enemy [Military] units in adjacent [All] tiles",
-"[70]% chance to intercept air attacks",
-	      "Cannot be intercepted","[2] additional attacks per turn"],
+  "uniques": [
+	  	"Cannot be purchased",
+	  	"Unbuildable",
+	  	"Can move after attacking",
+	  	"Never appears as a Barbarian unit",
+		"[-30]% Strength for enemy [Military] units in adjacent [All] tiles",
+		"[70]% chance to intercept air attacks",
+	    "Cannot be intercepted",
+	  	"[2] additional attacks per turn"
+  ],
   },
 	{
     "name": "Bodhisattva",
@@ -56,7 +74,8 @@
 	  	"May capture killed [All] units",
 	  	"[+64]% Strength <when defending>",
 	  	"Can Spread Religion <[2] times> <after which this unit is consumed>",
-		"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"
+		"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+	  	"Unable to capture cities"
   ],
   },
 	{
