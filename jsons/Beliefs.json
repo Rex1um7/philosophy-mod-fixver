@@ -147,7 +147,7 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[+25]% Unhappiness from [Followers of this Religion] [in all cities]",
+              "[+50]% Unhappiness from [Followers of this Religion] [in all cities]",
               "[+33]% Strength <for [All] units> <when fighting in [All] tiles>"
         ]
     },
