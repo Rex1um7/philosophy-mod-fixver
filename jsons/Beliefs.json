@@ -77,8 +77,10 @@
 {
         "name": "Ritual Combat",
         "type": "Founder"
-        "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
-  "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        "uniques": [
+            "[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
+            "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
+        ]
     },
 {
         "name": "Sesajen",
@@ -144,7 +146,10 @@
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": [
+              "[+25]% Unhappiness from [Followers of this Religion] [in all cities]",
+              "[+33]% Strength <for [All] units> <when fighting in [All] tiles>"
+        ]
     },
 {
         "name": "Liturgical Chanting",
@@ -155,8 +160,10 @@
 {
         "name": "Tzelota",
         "type": "Follower",
-        "uniques": ["[+15]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
-                    "[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": [
+                "[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
+                "[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"
+        ]
     },
 {
         "name": "Food Offering",
@@ -211,8 +218,10 @@
 {
         "name": "Ritual Sacrifice",
         "type": "Follower"
-        "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
-  "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"]
+        "uniques": [
+            "Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
+            "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"
+        ]
     },
 {
         "name": "Sacrifice to the Rain God",
