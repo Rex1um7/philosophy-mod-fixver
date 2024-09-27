@@ -54,7 +54,8 @@
 			"Unbuildable",
 			"Hidden when religion is disabled",
 			"Can only be built <in [in holy cities] cities>",
-			"Free [Barong] appears"
+			"Free [Barong] appears",
+			"Triggers the following global alert: [Barong has awaken]"
 		]
 	},
 {
@@ -66,7 +67,8 @@
 			"Unbuildable",
 			"Hidden when religion is disabled",
 			"Can only be built <in [in holy cities] cities>",
-			"Free [St Mercurius] appears"
+			"Free [St Mercurius] appears",
+			"Triggers the following global alert: [St Mercurius has awaken]"
 		]
 	},
 {
@@ -78,7 +80,8 @@
 			"Unbuildable",
 			"Hidden when religion is disabled",
 			"Can only be built <in [in holy cities] cities>",
-			"Free [Simon the Tanner] appears"
+			"Free [Simon the Tanner] appears",
+			"Triggers the following global alert: [Simon the Tanner has awaken]"
 		]
 	},
 {
@@ -91,7 +94,8 @@
 			"Unbuildable",
 			"Hidden when religion is disabled",
 			"Can only be built <in [in holy cities] cities>",
-			"Free [Tlaloc] appears"
+			"Free [Tlaloc] appears",
+			"Triggers the following global alert: [Tlaloc has awaken]"
 		]
 	}
 ]
