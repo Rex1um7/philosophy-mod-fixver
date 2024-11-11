@@ -8,7 +8,7 @@
     "specialistSlots": {
       "Ascetic": 2
     },
-    "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
+    "uniques": ["Destroyed when the city is captured","Only available <when religion is enabled>"]
   },
   {
     "name": "College of Theology",
@@ -21,7 +21,7 @@
     "specialistSlots": {
       "Philosopher": 2
     },
-    "uniques": ["Hidden when religion is disabled"]
+    "uniques": ["Only available <when religion is enabled>"]
   },
   {
     "name": "St Peter's Basilica",
@@ -32,7 +32,7 @@
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Theology",
 	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
-    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    "uniques": ["Only available <when religion is enabled>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Fushimi Inari Taisha",
@@ -43,7 +43,7 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Masonry",
-    "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
+    "uniques": ["Only available <when religion is enabled>","Free [Great Prophet] appears"]
   },
 {
 		"name": "Pura Agung",
@@ -52,7 +52,7 @@
 		"food": 1,
 		"uniques": [
 			"Unbuildable",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Can only be built <in [in holy cities] cities>",
 			"Free [Barong] appears",
 			"Triggers the following global alert: [Barong has awaken]"
@@ -65,7 +65,7 @@
 		"culture": 2,
 		"uniques": [
 			"Unbuildable",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Can only be built <in [in holy cities] cities>",
 			"Free [St Mercurius] appears",
 			"Triggers the following global alert: [St Mercurius has awaken]"
@@ -78,7 +78,7 @@
 		"culture": 2,
 		"uniques": [
 			"Unbuildable",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Can only be built <in [in holy cities] cities>",
 			"Free [Simon the Tanner] appears",
 			"Triggers the following global alert: [Simon the Tanner has awaken]"
@@ -92,7 +92,7 @@
 		"culture": 1,
 		"uniques": [
 			"Unbuildable",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Can only be built <in [in holy cities] cities>",
 			"Free [Tlaloc] appears",
 			"Triggers the following global alert: [Tlaloc has awaken]"
