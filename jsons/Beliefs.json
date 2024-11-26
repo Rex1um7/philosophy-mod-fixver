@@ -21,8 +21,8 @@
             "[+20]% Natural religion spread [in all cities]",
             "Provides [1] [Natural Religion Spread Limit]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
-            "Unavailable <after adopting [Polytheism]>",
-            "Unavailable <after adopting [Itinerant Preachers]>",
+            "Only available <before adopting [Polytheism]>",
+            "Only available <before adopting [Itinerant Preachers]>",
     ]
   },
     {
@@ -35,8 +35,8 @@
         "[+2 Faith, +2 Culture] from every [Shrine]",
         "Provides [1] [Natural Religion Spread Limit]",
         "Only available <when below [2] [Natural Religion Spread Limit]>",
-        "Unavailable <after adopting [Spirits not Gods]>",
-        "Unavailable <after adopting [Itinerant Preachers]>",
+        "Only available <before adopting [Spirits not Gods]>",
+        "Only available <before adopting [Itinerant Preachers]>",
     ]
   },
     {
@@ -150,8 +150,8 @@
             "Religion naturally spreads to cities [+3] tiles away",
             "Provides [1] [Natural Religion Spread Limit]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
-            "Unavailable <after adopting [Polytheism]>",
-            "Unavailable <after adopting [Spirits not Gods]>",
+            "Only available <before adopting [Polytheism]>",
+            "Only available <before adopting [Spirits not Gods]>",
         ]
     },
      {
