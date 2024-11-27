@@ -1,5 +1,20 @@
 {
         "uniques":[
                 "[-33]% Natural religion spread [in all cities] <when above [3] [Natural Religion Spread Limit]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Polytheism]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Cycle of Reincarnation]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Sola Scriptura]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Hesychasm]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Corrupted Scripture]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Predestination]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Nihilism]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Hedonism]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Incarnation of God]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Iconoclasm]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Itinerant Preachers]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Texts]>",
+                "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Unity]>",
         ]
 }
