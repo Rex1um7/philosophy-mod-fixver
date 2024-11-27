@@ -1,6 +1,7 @@
 [	
     {
         "name": "Natural Religion Spread Limit",
-        "resourceType": "Strategic",
+        "resourceType": "Strategic"
+        "uniques": ["Cannot be traded",]
     },
 ]
