@@ -8,7 +8,7 @@
             "[+15]% Natural religion spread [in all cities]",
             "[+2 Culture, +1 Faith] from every [Philosopher]",
             "[+100]% Production when constructing [Sacred Space] buildings [in all cities]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>"
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
     ]
@@ -19,7 +19,7 @@
     "uniques": [
             "Religion naturally spreads to cities [+4] tiles away", 
             "[+20]% Natural religion spread [in all cities]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             "Only available <before adopting [Polytheism]>",
             "Only available <before adopting [Itinerant Preachers]>",
@@ -33,7 +33,7 @@
         "Religion naturally spreads to cities [+3] tiles away",
       "[+2 Gold, +2 Faith] from each Trade Route",
         "[+2 Faith, +2 Culture] from every [Shrine]",
-        "Provides [1] [Natural Religion Spread Limit] <after adopting [Polytheism]>"",
+        "Provides [1] [Natural Religion Spread Limit] <after adopting [Polytheism]>",
         "Only available <when below [2] [Natural Religion Spread Limit]>",
         "Only available <before adopting [Spirits not Gods]>",
         "Only available <before adopting [Itinerant Preachers]>",
@@ -46,7 +46,7 @@
         "[+60]% Natural religion spread [in City-State cities]",
         "[+4 Faith, +2 Culture] from every [Ascetic]",
         "[+1 Gold] from every [Shrine]",
-        "Provides [1] [Natural Religion Spread Limit] <after adopting [Cycle of Reincarnation]>"",
+        "Provides [1] [Natural Religion Spread Limit] <after adopting [Cycle of Reincarnation]>",
         "Only available <when below [2] [Natural Religion Spread Limit]>",
         
     ]
@@ -56,7 +56,7 @@
         "type": "Founder",
         "uniques": [
             "[+40]% Natural religion spread [in all cities]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Sola Scriptura]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Sola Scriptura]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -67,7 +67,7 @@
         "uniques": [
             "[+25]% Natural religion spread [in cities following this religion] <when at war>", 
             "[+2 Faith] [in all cities]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Hesychasm]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Hesychasm]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -78,7 +78,7 @@
         "uniques": [
             "[Faith] cost of purchasing [Inquisitor] units [-25]%",
             "[+33]% Natural religion spread [in all cities] <in cities with an enhanced religion>",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Corrupted Scripture]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Corrupted Scripture]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -90,7 +90,7 @@
             "[+50]% Natural religion spread [in all cities] <when at war>",
             "[-25]% Natural religion spread [in all cities] <when not at war>",
             "[-2]% [Happiness] from every follower, up to [-15]% <when not at war>",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Predestination]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Predestination]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -103,7 +103,7 @@
             "[-3]% [Happiness] from every follower, up to [-25]% <when not at war>",
             "[+1 Gold] [in all cities]",
             "[+2 Faith] [in all cities] <during a Golden Age>",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Nihilism]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Nihilism]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -115,7 +115,7 @@
             "[+33]% Natural religion spread [in all cities] <during a Golden Age>",
             "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
             "[+2 Culture, -3 Faith] from every [Ascetic]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Hedonism]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Hedonism]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -126,7 +126,7 @@
         "uniques": [
             "[+33]% Natural religion spread [in all cities]",
             "[+1 Gold] per [3] population [in cities following this religion]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Incarnation of God]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Incarnation of God]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -138,7 +138,7 @@
             "[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
             "[+33]% Natural religion spread [in all cities] <in cities with an enhanced religion>",
             "[-1 Happiness, -2 Faith] from every [Dyes]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Iconoclasm]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Iconoclasm]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -148,7 +148,7 @@
         "type": "Enhancer",
         "uniques": [
             "Religion naturally spreads to cities [+3] tiles away",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Itinerant Preachers]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Itinerant Preachers]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             "Only available <before adopting [Polytheism]>",
             "Only available <before adopting [Spirits not Gods]>",
@@ -160,7 +160,7 @@
         "uniques": [
             "[+34]% Natural religion spread [in all cities]", 
             "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Texts]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Texts]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
         ]
     },
@@ -169,7 +169,7 @@
         "type": "Enhancer",
         "uniques": [
             "[+100]% Natural religion spread [in City-State cities]",
-            "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Unity]>"",
+            "Provides [1] [Natural Religion Spread Limit] <after adopting [Religious Unity]>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
         ]
     },
