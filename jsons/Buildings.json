@@ -50,6 +50,9 @@
 		"cost": 0,
 		"faith": 3,
 		"food": 1,
+		"specialistSlots": {
+      			"Ascetic": 1
+   		 },
 		"uniques": [
 			"Unbuildable",
 			"Only available <when religion is enabled>",
@@ -63,6 +66,9 @@
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
+		"specialistSlots": {
+      			"Ascetic": 1
+   		 },
 		"uniques": [
 			"Unbuildable",
 			"Only available <when religion is enabled>",
@@ -76,6 +82,9 @@
 		"cost": 0,
 		"faith": 2,
 		"culture": 2,
+		"specialistSlots": {
+      			"Ascetic": 1
+   		 },
 		"uniques": [
 			"Unbuildable",
 			"Only available <when religion is enabled>",
@@ -90,6 +99,10 @@
 		"faith": 2,
 		"Gold": 1,
 		"culture": 1,
+		"specialistSlots": {
+      			"Ascetic": 1,
+			"Philosopher": 1
+   		 },
 		"uniques": [
 			"Unbuildable",
 			"Only available <when religion is enabled>",
