@@ -241,9 +241,9 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[+50]% Unhappiness from [Followers of this Religion] [in all cities]",
-              "[+50]% Unhappiness from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>",
-              "[+33]% Strength <for [All] units> <when fighting in [All] tiles>"
+              "[+25]% Unhappiness from [Followers of this Religion] [in all cities]",
+              "[+50]% Unhappiness from [Followers of this Religion] [in all cities] <for [AI player] Civilizations> <hidden from users>",
+              "[+33]% Strength <for [All] units> <when fighting in [All] tiles>",
         ]
     },
 {
