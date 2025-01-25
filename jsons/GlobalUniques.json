@@ -2,6 +2,7 @@
         "uniques":[
                 "[-40]% Natural religion spread [in all cities] <when above [3] [Natural Religion Spread Limit]>",
                 "[-33]% Natural religion spread [in holy city] <when above [3] [Natural Religion Spread Limit]>",
+                "Religion naturally spreads to cities [-2] tiles away",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Polytheism]>",
