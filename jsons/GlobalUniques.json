@@ -4,7 +4,7 @@
                 "[-50]% [Faith] [in all cities] <when above [3] [Natural Religion Spread Limit]>",
                 "[-33]% Spread Religion Strength <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",
                 "[-25]% Spread Religion Strength <for [Missionary] units> <when above [3] [Natural Religion Spread Limit]>",
-                "[-1] Movement <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",        
+                "[1] Movement <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",        
                 "Religion naturally spreads to cities [-3] tiles away <when above [3] [Natural Religion Spread Limit]> <after adopting [Itinerant Preachers]> <hidden from users>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>",
