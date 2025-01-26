@@ -241,10 +241,11 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[+25]% Unhappiness from [Population] [in all cities]",
-              "[+25]% Unhappiness from [Population] [in all cities] <for [AI player] Civilizations> <hidden from users>",
-              "[+33]% unhappiness from the number of cities",
+              "[+33]% Unhappiness from [Population] [in all cities]",
+              "[+33]% Unhappiness from [Population] [in all cities] <for [AI player] Civilizations> <hidden from users>",
+              "[+50]% unhappiness from the number of cities",
               "[+33]% Strength <for [All] units> <when fighting in [All] tiles>",
+              "No defensive terrain bonus <for [All] units>",
         ]
     },
 {
