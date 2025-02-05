@@ -244,9 +244,10 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[+33]% Unhappiness from [Population] [in all cities]",
-              "[+33]% Unhappiness from [Population] [in all cities] <for [AI player] Civilizations> <hidden from users>",
+              "[+25]% Unhappiness from [Population] [in all cities]",
+              "[-2]% [Happiness] from every follower, up to [-25]%",
               "[+33]% Strength <for [All] units> <when fighting in [All] tiles>",
+              "Retain [+50]% of the happiness from a luxury after the last copy has been traded away",
               "No defensive terrain bonus <for [All] units>",
         ]
     },
