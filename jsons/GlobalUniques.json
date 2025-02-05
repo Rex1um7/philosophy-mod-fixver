@@ -1,13 +1,10 @@
 {
         "uniques":[
                 "[-66]% Natural religion spread [in all cities] <when above [3] [Natural Religion Spread Limit]>",
-                "[-50]% [Faith] [in all cities] <when above [3] [Natural Religion Spread Limit]>",
-                "[-50]% Spread Religion Strength <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",
+                "[-33]% [Faith] [in all cities] <when above [3] [Natural Religion Spread Limit]>",
+                "[-33]% Spread Religion Strength <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",
                 "[-33]% Spread Religion Strength <for [Missionary] units> <when above [3] [Natural Religion Spread Limit]>",
                 "[-3] Movement <for [Great Prophet] units> <when above [3] [Natural Religion Spread Limit]>",        
-                "Religion naturally spreads to cities [-3] tiles away <after adopting [Itinerant Preachers]> <when above [3] [Natural Religion Spread Limit]>",
-                "Religion naturally spreads to cities [-4] tiles away <after adopting [Spirits not Gods]> <when above [3] [Natural Religion Spread Limit]>",
-                "Religion naturally spreads to cities [-3] tiles away <after adopting [Polytheism]> <when above [3] [Natural Religion Spread Limit]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Greater than the Gods]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Spirits not Gods]>",
                 "Provides [1] [Natural Religion Spread Limit] <after adopting [Polytheism]>",
