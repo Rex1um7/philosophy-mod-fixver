@@ -36,10 +36,10 @@
 	{
     "name": "Simon the Tanner",
 		"unitType": "Deity",
-		"movement": "2",
+		"movement": "1",
 		"strength": "300",
 		"cost": "2000",
-  		"uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [2]","Blast radius [2]","Invisible to non-adjacent units",
+  		"uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [10]","Blast radius [3]","Invisible to non-adjacent units",
 	      "Eliminates combat penalty for attacking over a river","Self-destructs when attacking"],
   },
 	{
