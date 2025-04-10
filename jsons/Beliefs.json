@@ -2,7 +2,7 @@
     // religion spread
   {
     "name": "Greater than the Gods",
-    "type": "Pantheon",
+    "type": "Founder",
     "uniques": [
             "[+60]% Natural religion spread [in City-State cities]",                
             "[+15]% Natural religion spread [in all cities]",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Spirits not Gods",
-    "type": "Pantheon",
+    "type": "Enhancer",
     "uniques": [
             "Religion naturally spreads to cities [+4] tiles away", 
             "[+20]% Natural religion spread [in all cities]",
@@ -26,7 +26,7 @@
   },
     {
     "name": "Polytheism",
-    "type": "Pantheon",
+    "type": "Follower",
     "uniques": [
       "[+25]% Natural religion spread [in all cities]",
         "Religion naturally spreads to cities [+3] tiles away",
@@ -40,7 +40,7 @@
   },
     {
     "name": "Cycle of Reincarnation",
-    "type": "Pantheon",
+    "type": "Founder",
     "uniques": [
         "[+60]% Natural religion spread [in City-State cities]",
         "[+4 Faith, +2 Culture] from every [Ascetic]",
@@ -84,7 +84,7 @@
         "uniques": [
             "[+50]% Natural religion spread [in all cities] <when at war>",
             "[-25]% Natural religion spread [in all cities] <when not at war>",
-            "[-2]% [Happiness] from every follower, up to [-15]% <when not at war>",
+            "[+10]% Unhappiness from [Followers of this Religion] [in all cities]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -94,7 +94,7 @@
         "type": "Follower",
         "uniques": [
             "[+25]% Natural religion spread [in all cities]",
-            "[-3]% [Happiness] from every follower, up to [-25]% <when not at war>",
+            "[+15]% Unhappiness from [Followers of this Religion] [in all cities]",
             "[+1 Gold] [in all cities]",
             "[+2 Faith] [in all cities] <during a Golden Age>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
@@ -168,7 +168,7 @@
     "type": "Pantheon",
     "uniques": [
         "[+35]% Great Person generation [in cities following this religion]",
-      "[+2]% [Gold] from every follower, up to [20]%"]
+      "[+2]% [Gold] from every follower, up to [+20]%"]
   },
   {
     "name": "Pantheism",
@@ -178,7 +178,7 @@
   {
     "name": "Strong Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+2]% [Culture] from every follower, up to [30]%", "[+1 Faith] from every [Friendly Land]"]
+    "uniques": ["[+2]% [Culture] from every follower, up to [+30]%", "[+1 Faith] from every [Friendly Land]"]
   },
   {
     "name": "Palamite Panentheism",
@@ -244,8 +244,7 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[-3]% [Happiness] from every follower, up to [-33]%",
-              "[-2]% [Science] from every follower, up to [-10]%",
+              "[+20]% Unhappiness from [Followers of this Religion] [in all cities]",
               "[+33]% Strength <for [All] units> <when fighting in [All] tiles>",
               "Retain [+50]% of the happiness from a luxury after the last copy has been traded away",
               "No defensive terrain bonus <for [All] units> <hidden from users>",
