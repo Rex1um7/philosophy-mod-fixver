@@ -84,7 +84,7 @@
         "uniques": [
             "[+50]% Natural religion spread [in all cities] <when at war>",
             "[-25]% Natural religion spread [in all cities] <when not at war>",
-            "[+10]% Unhappiness from [Followers of this Religion] [in all cities]",
+            "[-10]% [Happiness] [in all cities]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -94,7 +94,7 @@
         "type": "Follower",
         "uniques": [
             "[+25]% Natural religion spread [in all cities]",
-            "[+15]% Unhappiness from [Followers of this Religion] [in all cities]",
+            "[-10]% [Happiness] [in all cities]",
             "[+1 Gold] [in all cities]",
             "[+2 Faith] [in all cities] <during a Golden Age>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
@@ -244,7 +244,7 @@
         "name": "Theosis",
         "type": "Enhancer",
         "uniques": [
-              "[+20]% Unhappiness from [Followers of this Religion] [in all cities]",
+              "[-20]% [Happiness] [in all cities]",
               "[+33]% Strength <for [All] units> <when fighting in [All] tiles>",
               "Retain [+50]% of the happiness from a luxury after the last copy has been traded away",
               "No defensive terrain bonus <for [All] units> <hidden from users>",
