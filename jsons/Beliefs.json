@@ -84,7 +84,7 @@
         "uniques": [
             "[+50]% Natural religion spread [in all cities] <when at war>",
             "[-25]% Natural religion spread [in all cities] <when not at war>",
-            "[-10]% [Happiness] [in all cities]",
+            "[-5]% Unhappiness from [Followers of this Religion] [in all cities] <when at war>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -94,7 +94,7 @@
         "type": "Follower",
         "uniques": [
             "[+25]% Natural religion spread [in all cities]",
-            "[-10]% [Happiness] [in all cities]",
+            "[-1] [Happiness] [in all cities]",
             "[+1 Gold] [in all cities]",
             "[+2 Faith] [in all cities] <during a Golden Age>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
