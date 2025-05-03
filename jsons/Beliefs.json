@@ -26,7 +26,7 @@
   },
     {
     "name": "Polytheism",
-    "type": "Follower",
+    "type": "Enhancer",
     "uniques": [
       "[+25]% Natural religion spread [in all cities]",
         "Religion naturally spreads to cities [+3] tiles away",
@@ -38,6 +38,17 @@
         "Religion naturally spreads to cities [-3] tiles away <after adopting [Polytheism]> <when above [3] [Natural Religion Spread Limit]>",
     ]
   },
+    {
+        "name": "Itinerant Preachers",
+        "type": "Follower",
+        "uniques": [
+            "Religion naturally spreads to cities [+3] tiles away",
+            "Only available <when below [2] [Natural Religion Spread Limit]>",
+            "Only available <before adopting [Polytheism]>",
+            "Only available <before adopting [Spirits not Gods]>",
+            "Religion naturally spreads to cities [-3] tiles away <after adopting [Itinerant Preachers]> <when above [3] [Natural Religion Spread Limit]>",
+        ]
+    },
     {
     "name": "Cycle of Reincarnation",
     "type": "Founder",
@@ -131,17 +142,6 @@
             "[-1 Happiness, -2 Faith] from every [Dyes]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
-        ]
-    },
-    {
-        "name": "Itinerant Preachers",
-        "type": "Enhancer",
-        "uniques": [
-            "Religion naturally spreads to cities [+3] tiles away",
-            "Only available <when below [2] [Natural Religion Spread Limit]>",
-            "Only available <before adopting [Polytheism]>",
-            "Only available <before adopting [Spirits not Gods]>",
-            "Religion naturally spreads to cities [-3] tiles away <after adopting [Itinerant Preachers]> <when above [3] [Natural Religion Spread Limit]>",
         ]
     },
      {
