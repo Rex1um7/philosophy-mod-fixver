@@ -28,7 +28,7 @@
     "name": "Polytheism",
     "type": "Enhancer",
     "uniques": [
-      "[+25]% Natural religion spread [in all cities]",
+      "[+10]% Natural religion spread [in all cities]",
         "Religion naturally spreads to cities [+3] tiles away",
       "[+2 Gold, +2 Faith] from each Trade Route",
         "[+2 Faith, +2 Culture] from every [Shrine]",
