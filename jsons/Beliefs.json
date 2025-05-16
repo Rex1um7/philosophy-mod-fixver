@@ -195,13 +195,21 @@
         "type": "Founder",
         "uniques": [
           "Resting point for Influence with City-States following this religion [+20]",
-          "[+1 Happiness, +1 Culture] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"
+          "[+1 Happiness, +1 Culture] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>",
         ]
     },
 {
         "name": "Submission to the Pope",
         "type": "Founder",
         "uniques": ["Resting point for Influence with City-States following this religion [+30]"]
+    },
+    {
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": [
+            "Resting point for Influence with City-States following this religion [+20]", 
+            "[+2 Faith, +1 Happiness] [in all cities] <when at war>",
+        ]
     },
 {
         "name": "Impermanence",
@@ -336,11 +344,6 @@
         "name": "Onmyodo",
         "type": "Founder",
         "uniques": ["May buy [Onmyoji] units with [Faith] for [3] times their normal Production cost"]
-    },
-{
-        "name": "Papal Primacy",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]", "[+2 Faith, +1 Happiness] [in all cities] <when at war>"]
     },
     {
         //synagogue in Rekmod
