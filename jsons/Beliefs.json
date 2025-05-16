@@ -137,11 +137,14 @@
         "name": "Iconoclasm",
         "type": "Founder",
         "uniques": [
-            "[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+            "[+3 Faith, -1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+            "[+1 Culture] for each global city following this religion",
+            "[+1 Culture] from every [5] global followers [in cities following our religion]",
             "[+33]% Natural religion spread [in all cities] <in cities with an enhanced religion>",
-            "[-1 Happiness, -2 Faith] from every [Dyes]",
+            "[-1 Happiness] <in cities with a [Amphitheater]>",
+            "[+1 Happiness] <in cities with at least [5] [Followers of this Religion]>",
+            "[+1 Faith, -1 Happiness] from all [World Wonder] buildings",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
-            
         ]
     },
      {
