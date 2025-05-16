@@ -117,7 +117,7 @@
         "type": "Follower",
         "uniques": [
             "[+33]% Natural religion spread [in all cities] <during a Golden Age>",
-            "[+1 Happiness, +1 Gold] <in cities following our religion> <during a Golden Age>",
+            "[+1 Happiness, +1 Gold] [in cities following our religion] <during a Golden Age>",
             "[-1 Food, -1 Production, +1 Gold, +1 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
             "[+2 Culture, -1 Faith] from every [Ascetic]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
@@ -350,7 +350,7 @@
         "name": "Kabbalah",
         "type": "Enhancer"
         "uniques": [
-            "Unavailable <if [Rekmod] is not enabled>",
+            "Only available <if [Rekmod] is enabled>",
             "[+1 Happiness, +2 Science] from every [Synagogue]",
             "[+1 Faith] per [4] population [in all cities]"
         ]
