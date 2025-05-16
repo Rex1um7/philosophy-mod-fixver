@@ -16,12 +16,12 @@
     "name": "Spirits not Gods",
     "type": "Enhancer",
     "uniques": [
-            "Religion naturally spreads to cities [+4] tiles away", 
+            "Religion naturally spreads to cities [+3] tiles away", 
             "[+20]% Natural religion spread [in all cities]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             "Only available <before adopting [Polytheism]>",
             "Only available <before adopting [Itinerant Preachers]>",
-            "Religion naturally spreads to cities [-4] tiles away <after adopting [Spirits not Gods]> <when above [3] [Natural Religion Spread Limit]>",
+            "Religion naturally spreads to cities [-3] tiles away <after adopting [Spirits not Gods]> <when above [3] [Natural Religion Spread Limit]>",
     ]
   },
     {
@@ -54,7 +54,7 @@
     "type": "Founder",
     "uniques": [
         "[+60]% Natural religion spread [in City-State cities]",
-        "[+4 Faith, +2 Culture] from every [Ascetic]",
+        "[+3 Faith, +1 Culture] from every [Ascetic]",
         "[+1 Gold] from every [Shrine]",
         "Only available <when below [2] [Natural Religion Spread Limit]>",
         
@@ -73,7 +73,7 @@
         "name": "Hesychasm",
         "type": "Follower"
         "uniques": [
-            "[+25]% Natural religion spread [in cities following this religion] <when at war>", 
+            "[+33]% Natural religion spread [in cities following this religion] <when at war>", 
             "[+2 Faith] [in all cities]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
@@ -93,8 +93,8 @@
         "name": "Predestination",
         "type": "Follower",
         "uniques": [
-            "[+50]% Natural religion spread [in all cities] <when at war>",
-            "[-25]% Natural religion spread [in all cities] <when not at war>",
+            "[+40]% Natural religion spread [in all cities] <when at war>",
+            "[-15]% Natural religion spread [in all cities] <when not at war>",
             "[-5]% Unhappiness from [Followers of this Religion] [in all cities] <when at war>",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
@@ -117,8 +117,9 @@
         "type": "Follower",
         "uniques": [
             "[+33]% Natural religion spread [in all cities] <during a Golden Age>",
-            "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
-            "[+2 Culture, -3 Faith] from every [Ascetic]",
+            "[+1 Happiness, +1 Gold] <in cities following our religion> <during a Golden Age>",
+            "[-1 Food, -1 Production, +1 Gold, +1 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
+            "[+2 Culture, -1 Faith] from every [Ascetic]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
         ]
@@ -127,7 +128,7 @@
         "name": "Incarnation of God",
         "type": "Founder",
         "uniques": [
-            "[+33]% Natural religion spread [in all cities]",
+            "[+20]% Natural religion spread [in all cities]",
             "[+1 Gold] per [3] population [in cities following this religion]",
             "Only available <when below [2] [Natural Religion Spread Limit]>",
             
@@ -266,7 +267,7 @@
         "name": "Tzelota",
         "type": "Follower",
         "uniques": [
-                "[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
+                "[+25]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
                 "[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"
         ]
     },
@@ -279,10 +280,12 @@
         "name": "Ahimsa",
         "type": "Follower",
         "uniques": [
-            "[-1 Food, +1 Faith, +1 Culture] from every [Cattle]","[-1 Food, +1 Faith, +1 Culture] from every [Cattle]",
-            "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]","[-1 Food, +1 Faith, +1 Culture] from every [Deer]",
-            "[-1 Food, +1 Faith] from every [Fish]","[-1 Food, +1 Faith] from every [Whales]",
-            "[-1 Food, +1 Faith] from every [Crab]"
+            "[-1 Food, +1 Faith, +1 Culture] from every [Cattle]",
+            "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]",
+            "[-1 Food, +1 Faith, +1 Culture] from every [Deer]",
+            "[+1 Faith] from every [Fish]",
+            "[+1 Faith] from every [Whales]",
+            "[+1 Faith] from every [Crab]",
         ]
     },
 {
@@ -309,7 +312,7 @@
         "name": "Work Ethic",
         "type": "Enhancer"
         "uniques": ["[+1 Production, +1 Gold] from all [Faith] buildings <in cities with at least [6] [Followers of this Religion]>",
-  "May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [8] [Followers of this Religion]>"]
+  "May buy [Worker] units with [Faith] for [3] times their normal Production cost <in cities with at least [8] [Followers of this Religion]>"]
     },
 {
         "name": "Ritual Sacrifice",
@@ -344,8 +347,9 @@
         "name": "Kabbalah",
         "type": "Enhancer"
         "uniques": [
+            "Unavailable <if [Rekmod] is not enabled>",
             "[+1 Happiness, +2 Science] from every [Synagogue]",
-            "[+1 Faith] per [4] population [in all cities]"
+            "[+1 Faith] per [4] population [in all cities]".
         ]
     },
 ]
